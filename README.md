@@ -19,3 +19,10 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+# Script
+
+The script expects UCI_HAR_Dataset in the folder where the script is being run. And the script uses following libraries.
+
+    * dplyr
+    * data.table
+
